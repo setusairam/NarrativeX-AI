@@ -1,9 +1,3 @@
-# NarrativeX-AI
-
-Perfect! I’ve updated the README with your chosen name **NarrativeX AI** and polished it to look professional for GitHub, even for an MVP project that isn’t built yet.
-
----
-
 # **NarrativeX AI**
 
 **All-in-One AI Storytelling Tool**
@@ -132,10 +126,7 @@ This project is licensed under the MIT License.
 
 ## **Contact**
 
-For questions or suggestions, reach out at: [your email / social link]
+For questions or suggestions, reach out at: [setusairam3@gmail.com]
 
 ---
 
-If you want, I can now **add badges, GIF/demo placeholders, and a polished “Inputs & Outputs” table** so your GitHub repo looks fully ready for showcasing, even before coding starts.
-
-Do you want me to do that?
